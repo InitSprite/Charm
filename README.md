@@ -70,6 +70,8 @@ I put a sponsor on this project as some people wanted to contribute, if you want
 
 ## License
 
+1
+
 The Charm source code is licensed under GPLv3. All other used code and DLLs are subject to their own licenses.
 
 ## Credits
